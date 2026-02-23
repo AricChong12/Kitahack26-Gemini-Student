@@ -10,4 +10,7 @@ https://github.com/razashan/kitahack-gemini-workshop
 Disclaimer: 
 
 
-The code in the respository is not mine, i only experiment and learning for it, this respository is only for personal archival purposes
+This repository is based on code originally created by Ehtisham Raza.
+I am using it for learning and experimentation purposes only.
+All original rights belong to the respective authors.
+Please refer to the original license for usage terms.
