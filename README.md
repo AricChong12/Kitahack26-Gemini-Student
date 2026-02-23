@@ -2,7 +2,7 @@
 Code Experimentation of the Kitahack 2026 Gemini API workshop 
 
 
-Speaker Code Documentation: 
+Speaker Code Documentation (Edu-Assistant): 
 
 https://github.com/razashan/kitahack-gemini-workshop
 
